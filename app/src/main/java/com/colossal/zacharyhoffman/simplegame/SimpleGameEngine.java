@@ -11,7 +11,7 @@ import android.view.MotionEvent;
 import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 /**
- * My first go at android studio
+ * My first go at android studio. Made a ball that follows pointer
  */
 
 
